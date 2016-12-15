@@ -1,2 +1,2 @@
 # hello-world
-This is a first Repo for UUDAMTH
+This is a first Rep for UUDAMTH
